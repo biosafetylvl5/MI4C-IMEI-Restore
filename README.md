@@ -10,7 +10,7 @@ The IMEI is only used for identifying the device and has no permanent or semi-pe
 Because a phones IMEI is used to indentify the device it belongs to, a phone without an IMEI cannot connect to any cellular networks. Sadly, there are a multitude of ways to unfortunately delete the IMEI stored in the EFS of the Xiaomi Mi4c. This is a guide for how to restore the IMEI on a Xiaomi Mi4c.
 
 ## Backup files
-Normal disclaimer applies.
+Normal disclaimer applies. Backup your files whenever you work on any device.
 
 ## Download files
 I've attached a few files:
