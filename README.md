@@ -81,7 +81,7 @@ Select your modified qcn file and click start. It may reach 100% quickly, but it
 
 ## Reboot phone
 
-# Celebrate! (Or retry if not successful)
+# Celebrate! (Or retry if not successful, sometimes it takes a few tries to get it right)
 
 ### Credit to http://www.miuitutorial.com/2016/10/imei-xiaomi-mi4c-kamu-hilang-jangan.html and Defforest@enMiuiForum
 
