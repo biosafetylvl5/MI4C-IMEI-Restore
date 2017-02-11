@@ -83,7 +83,7 @@ Select your modified qcn file and click start. It may reach 100% quickly, but it
 
 # Celebrate! (Or retry if not successful)
 
-
+### Credit to http://www.miuitutorial.com/2016/10/imei-xiaomi-mi4c-kamu-hilang-jangan.html and Defforest@enMiuiForum
 
 
 [unsigned-drivers]:(http://www.howtogeek.com/167723/how-to-disable-driver-signature-verification-on-64-bit-windows-8.1-so-that-you-can-install-unsigned-drivers/)
